@@ -212,7 +212,7 @@
     "type": "git",
     "url": "git+https://github.com/btof/client.git"
   },
-  "author": "",
+  "author": "Chelovek Pauk",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/btof/client/issues"
