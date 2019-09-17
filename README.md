@@ -8,3 +8,4 @@ All updates and changes should be made through this repository.
 * Make sure __jss__ package version is the same version as in [@material-ui/styles package.json](https://github.com/mui-org/material-ui/blob/master/packages/material-ui-styles/package.json)
 * Keep __cesium__ at version __1.21.0__ and __@types/cesium__ at __1.47.3__
 * Keep __raw-loader__ at version __1.0.0__ due to [breaking change in version 2.0.0](https://github.com/webpack-contrib/raw-loader/blob/master/CHANGELOG.md)
+* Keep __bootstrap__ at version __3.3.7__ because [it is the last version UI Bootstrap supports](https://angular-ui.github.io/bootstrap/)
