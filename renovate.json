@@ -6,13 +6,14 @@
   "automerge": true,
   "baseBranches": ["next"],
   "packageRules": [
-  {
-    "packagePatterns": [
-      "cesium",
-      "@types/cesium",
-      "raw-loader"
-    ],
-    "enabled": false
-  }
+    {
+      "packagePatterns": [
+        "cesium",
+        "@types/cesium",
+        "raw-loader",
+        "bootstrap"
+      ],
+      "enabled": false
+    }
   ]
 }
