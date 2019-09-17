@@ -126,7 +126,6 @@
     "@types/angular-mocks": "1.7.0",
     "@types/angular-ui-bootstrap": "1.0.0",
     "@types/angular-ui-sortable": "0.13.35",
-    "@types/bootstrap": "4.3.1",
     "@types/cesium": "1.47.3",
     "@types/d3": "5.7.2",
     "@types/enzyme": "3.10.3",
