@@ -4,7 +4,6 @@
   ],
   "prHourlyLimit": 0,
   "automerge": true,
-  "baseBranches": ["next"],
   "packageRules": [
     {
       "packagePatterns": [
