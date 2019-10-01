@@ -182,7 +182,7 @@
     "karma-webpack": "4.0.2",
     "less": "3.10.3",
     "less-loader": "5.0.0",
-    "lint-staged": "9.3.0",
+    "lint-staged": "9.4.1",
     "ncp": "2.0.0",
     "ngtemplate-loader": "2.0.1",
     "olympus-templatecache-loader": "0.0.1",
