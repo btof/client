@@ -4,6 +4,7 @@
   ],
   "prHourlyLimit": 0,
   "automerge": true,
+  "requiredStatusChecks": null,
   "packageRules": [
     {
       "packagePatterns": [
