@@ -19,7 +19,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage --colors",
-    "test-debug": "node --inspect-brk ./node_modules/jest/bin/jest.js --runInBand --no-cache",
+    "test:debug": "node --inspect-brk ./node_modules/jest/bin/jest.js --runInBand --no-cache",
     "tslint": "tslint --fix -c tslint.json",
     "tslint:all": "tslint --fix -c tslint.json 'app/**/*.{ts,tsx}'",
     "tslint:check": "tslint-config-prettier-check ./tslint.json",
