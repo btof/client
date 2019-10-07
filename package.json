@@ -148,7 +148,7 @@
     "@types/react-test-renderer": "16.9.0",
     "@types/redux-immutable": "4.0.1",
     "@types/sockjs-client": "1.1.1",
-    "@types/testing-library__react": "9.1.1",
+    "@types/testing-library__react": "9.1.2",
     "@types/tooltipster": "0.0.29",
     "angular-mocks": "1.7.8",
     "awesome-typescript-loader": "5.2.1",
