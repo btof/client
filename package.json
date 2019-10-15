@@ -141,7 +141,7 @@
     "@types/lodash": "4.14.144",
     "@types/material-ui": "0.21.7",
     "@types/proj4": "2.5.0",
-    "@types/react": "16.9.6",
+    "@types/react": "16.9.7",
     "@types/react-dom": "16.9.2",
     "@types/react-redux": "7.1.4",
     "@types/react-select": "3.0.5",
