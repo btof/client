@@ -197,7 +197,7 @@
     "style-loader": "1.0.0",
     "superstatic": "6.0.4",
     "ts-jest": "24.1.0",
-    "tslint": "5.20.0",
+    "tslint": "5.20.1",
     "tslint-config-airbnb": "5.11.2",
     "tslint-config-prettier": "1.18.0",
     "tslint-react": "4.1.0",
