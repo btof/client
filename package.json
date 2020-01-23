@@ -147,7 +147,7 @@
     "@types/proj4": "2.5.0",
     "@types/react": "16.9.19",
     "@types/react-dom": "16.9.5",
-    "@types/react-redux": "7.1.6",
+    "@types/react-redux": "7.1.7",
     "@types/react-select": "3.0.10",
     "@types/react-test-renderer": "16.9.2",
     "@types/redux-immutable": "4.0.1",
