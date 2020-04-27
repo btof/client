@@ -194,7 +194,7 @@
     "ncp": "2.0.0",
     "ngtemplate-loader": "2.0.1",
     "olympus-templatecache-loader": "0.0.1",
-    "postcss-flexbugs-fixes": "4.2.0",
+    "postcss-flexbugs-fixes": "4.2.1",
     "postcss-loader": "3.0.0",
     "prettier": "1.19.1",
     "raw-loader": "1.0.0",
