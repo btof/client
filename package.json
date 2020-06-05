@@ -120,7 +120,7 @@
     "rxjs": "6.5.5",
     "rxjs-compat": "6.5.5",
     "subscriptions-transport-ws": "0.9.16",
-    "tooltipster": "4.2.7",
+    "tooltipster": "4.2.8",
     "winston-logstash-udp": "0.2.1"
   },
   "devDependencies": {
