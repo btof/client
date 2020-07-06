@@ -118,7 +118,7 @@
     "redux-thunk": "2.3.0",
     "reselect": "4.0.0",
     "rxjs": "6.6.0",
-    "rxjs-compat": "6.5.5",
+    "rxjs-compat": "6.6.0",
     "subscriptions-transport-ws": "0.9.16",
     "tooltipster": "4.2.8",
     "winston-logstash-udp": "0.2.1"
