@@ -119,7 +119,7 @@
     "reselect": "4.0.0",
     "rxjs": "6.6.2",
     "rxjs-compat": "6.6.2",
-    "subscriptions-transport-ws": "0.9.16",
+    "subscriptions-transport-ws": "0.9.18",
     "tooltipster": "4.2.8",
     "winston-logstash-udp": "0.2.1"
   },
