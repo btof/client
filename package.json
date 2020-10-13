@@ -192,7 +192,7 @@
     "less-loader": "5.0.0",
     "lint-staged": "9.5.0",
     "ncp": "2.0.0",
-    "ngtemplate-loader": "2.0.1",
+    "ngtemplate-loader": "2.1.0",
     "olympus-templatecache-loader": "0.0.1",
     "postcss-flexbugs-fixes": "4.2.1",
     "postcss-loader": "3.0.0",
