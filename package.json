@@ -86,7 +86,7 @@
     "font-awesome": "4.7.0",
     "graphql": "14.7.0",
     "graphql-tag": "2.11.0",
-    "graphql-tools": "4.0.8",
+    "graphql-tools": "6.2.4",
     "immutable": "4.0.0-rc.12",
     "jest-junit-reporter": "1.1.0",
     "jquery": "3.5.1",
