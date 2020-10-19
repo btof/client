@@ -203,7 +203,7 @@
     "script-loader": "0.7.2",
     "source-map-loader": "1.1.1",
     "style-loader": "2.0.0",
-    "superstatic": "6.0.4",
+    "superstatic": "7.0.1",
     "ts-jest": "26.4.1",
     "tslint": "5.20.1",
     "tslint-config-airbnb": "5.11.2",
