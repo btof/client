@@ -195,7 +195,7 @@
     "ngtemplate-loader": "2.1.0",
     "olympus-templatecache-loader": "0.0.1",
     "postcss-flexbugs-fixes": "4.2.1",
-    "postcss-loader": "3.0.0",
+    "postcss-loader": "4.0.4",
     "prettier": "2.1.2",
     "raw-loader": "1.0.0",
     "react-test-renderer": "16.14.0",
