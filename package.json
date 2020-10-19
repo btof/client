@@ -135,7 +135,7 @@
     "@types/d3": "5.16.3",
     "@types/enzyme": "3.10.7",
     "@types/fetch-jsonp": "1.0.0",
-    "@types/jest": "24.9.1",
+    "@types/jest": "26.0.14",
     "@types/jquery": "3.5.3",
     "@types/jquery-mask-plugin": "1.14.3",
     "@types/js-clipper": "0.0.29",
