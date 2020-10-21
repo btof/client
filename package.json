@@ -155,7 +155,7 @@
     "@types/sockjs-client": "1.1.1",
     "@types/testing-library__react": "10.0.1",
     "@types/tooltipster": "0.0.30",
-    "angular-mocks": "1.8.1",
+    "angular-mocks": "1.8.2",
     "awesome-typescript-loader": "5.2.1",
     "babel-core": "6.26.3",
     "babel-loader": "8.1.0",
