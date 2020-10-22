@@ -13,8 +13,8 @@
       "packagePatterns": [
         "cesium",
         "@types/cesium",
-        "raw-loader",
-        "bootstrap"
+        "bootstrap",
+        "webpack-cli"
       ],
       "enabled": false
     }
