@@ -196,7 +196,7 @@
     "source-map-loader": "1.1.1",
     "style-loader": "2.0.0",
     "superstatic": "7.0.1",
-    "ts-jest": "26.4.2",
+    "ts-jest": "26.4.3",
     "tslint": "5.20.1",
     "tslint-config-airbnb": "5.11.2",
     "tslint-config-prettier": "1.18.0",
