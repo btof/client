@@ -14,8 +14,9 @@
         "cesium",
         "@types/cesium",
         "bootstrap",
-        "webpack-cli",
-        "webpack"
+        "expose-loader",
+        "imports-loader",
+        "css-loader"
       ],
       "enabled": false
     }
