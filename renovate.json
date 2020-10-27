@@ -14,7 +14,8 @@
         "cesium",
         "@types/cesium",
         "bootstrap",
-        "webpack-cli"
+        "webpack-cli",
+        "webpack"
       ],
       "enabled": false
     }
