@@ -16,7 +16,9 @@
         "bootstrap",
         "expose-loader",
         "imports-loader",
-        "css-loader"
+        "css-loader",
+        "webpack",
+        "webpack-cli"
       ],
       "enabled": false
     }
