@@ -141,7 +141,7 @@
     "@types/jss": "9.5.8",
     "@types/karma": "5.0.0",
     "@types/karma-jasmine": "3.1.0",
-    "@types/lodash": "4.14.162",
+    "@types/lodash": "4.14.163",
     "@types/material-ui": "0.21.8",
     "@types/proj4": "2.5.0",
     "@types/react": "16.9.54",
