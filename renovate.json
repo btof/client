@@ -4,14 +4,21 @@
   ],
   "prHourlyLimit": 0,
   "automerge": true,
-  "baseBranches": ["next"],
+  "major": {
+    "automerge": false
+  },
+  "requiredStatusChecks": null,
   "packageRules": [
     {
       "packagePatterns": [
         "cesium",
         "@types/cesium",
-        "raw-loader",
-        "bootstrap"
+        "bootstrap",
+        "expose-loader",
+        "imports-loader",
+        "css-loader",
+        "webpack",
+        "webpack-cli"
       ],
       "enabled": false
     }
