@@ -121,7 +121,7 @@
     "rxjs-compat": "6.6.3",
     "subscriptions-transport-ws": "0.9.18",
     "tooltipster": "4.2.8",
-    "uuid": "8.3.1"
+    "uuid": "8.3.2"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "5.11.6",
