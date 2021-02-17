@@ -126,7 +126,7 @@
   "devDependencies": {
     "@testing-library/jest-dom": "5.11.9",
     "@testing-library/react": "11.2.5",
-    "@types/angular": "1.8.0",
+    "@types/angular": "1.8.1",
     "@types/angular-mocks": "1.7.0",
     "@types/angular-ui-bootstrap": "1.0.0",
     "@types/angular-ui-sortable": "0.13.35",
