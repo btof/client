@@ -117,7 +117,7 @@
     "redux-observable": "1.2.0",
     "redux-thunk": "2.3.0",
     "reselect": "4.0.0",
-    "rxjs": "6.6.3",
+    "rxjs": "6.6.6",
     "rxjs-compat": "6.6.3",
     "subscriptions-transport-ws": "0.9.18",
     "tooltipster": "4.2.8",
