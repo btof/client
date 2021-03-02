@@ -91,7 +91,7 @@
     "graphql-tools": "7.0.4",
     "immutable": "4.0.0-rc.12",
     "jest-junit-reporter": "1.1.0",
-    "jquery": "3.5.1",
+    "jquery": "3.6.0",
     "jquery-mask-plugin": "1.14.16",
     "jquery-ui": "1.12.1",
     "js-clipper": "1.0.1",
