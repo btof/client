@@ -157,7 +157,7 @@
     "@types/react-select": "3.1.2",
     "@types/react-test-renderer": "17.0.1",
     "@types/redux-immutable": "4.0.1",
-    "@types/sockjs-client": "1.5.0",
+    "@types/sockjs-client": "1.5.1",
     "@types/tooltipster": "0.0.31",
     "angular-mocks": "1.8.2",
     "awesome-typescript-loader": "5.2.1",
