@@ -149,7 +149,7 @@
     "@types/karma-jasmine": "3.1.0",
     "@types/lodash": "4.14.171",
     "@types/material-ui": "0.21.9",
-    "@types/proj4": "2.5.1",
+    "@types/proj4": "2.5.2",
     "@types/react": "17.0.15",
     "@types/react-dom": "17.0.9",
     "@types/react-highlight-words": "0.16.3",
