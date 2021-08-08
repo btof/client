@@ -46,8 +46,8 @@
     ]
   },
   "dependencies": {
-    "@apollo/client": "3.4.4",
-    "@babel/core": "7.14.8",
+    "@apollo/client": "3.4.5",
+    "@babel/core": "7.15.0",
     "@material-ui/core": "4.12.3",
     "@material-ui/icons": "4.11.2",
     "@material-ui/lab": "4.0.0-alpha.60",
@@ -83,12 +83,10 @@
     "apollo-link-ws": "1.0.20",
     "bootstrap": "3.4.1",
     "cesium": "1.21.0",
-    "chokidar": "^3.5.2",
     "concavehull": "0.1.6",
     "d3": "6.7.0",
     "fetch-jsonp": "1.1.3",
     "font-awesome": "4.7.0",
-    "gpu.js": "^2.11.3",
     "graphql": "15.5.1",
     "graphql-tag": "2.12.5",
     "graphql-tools": "7.0.5",
