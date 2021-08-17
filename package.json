@@ -85,7 +85,7 @@
     "cesium": "1.21.0",
     "concavehull": "0.1.6",
     "d3": "6.7.0",
-    "fetch-jsonp": "1.2.0",
+    "fetch-jsonp": "1.2.1",
     "font-awesome": "4.7.0",
     "graphql": "15.5.1",
     "graphql-tag": "2.12.5",
