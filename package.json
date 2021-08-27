@@ -113,7 +113,7 @@
     "react-redux": "7.2.4",
     "react-select": "3.2.0",
     "react-text-mask": "5.4.3",
-    "react-toastify": "^7.0.4",
+    "react-toastify": "^8.0.0",
     "react2angular": "4.0.6",
     "recordrtc": "5.6.2",
     "redux": "4.1.1",
