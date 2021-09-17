@@ -90,7 +90,7 @@
     "graphql": "15.5.3",
     "graphql-tag": "2.12.5",
     "graphql-tools": "7.0.5",
-    "immutable": "4.0.0-rc.14",
+    "immutable": "4.0.0-rc.15",
     "jest-junit-reporter": "1.1.0",
     "jquery": "3.6.0",
     "jquery-mask-plugin": "1.14.16",
