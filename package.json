@@ -161,7 +161,7 @@
     "@types/tooltipster": "0.0.31",
     "angular-mocks": "1.8.2",
     "awesome-typescript-loader": "5.2.1",
-    "babel-loader": "8.2.2",
+    "babel-loader": "8.2.3",
     "babel-plugin-transform-es2015-modules-commonjs": "6.26.2",
     "clean-webpack-plugin": "3.0.0",
     "copy-webpack-plugin": "6.2.1",
