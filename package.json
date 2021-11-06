@@ -88,7 +88,7 @@
     "fetch-jsonp": "1.2.1",
     "font-awesome": "4.7.0",
     "graphql": "15.7.2",
-    "graphql-tag": "2.12.5",
+    "graphql-tag": "2.12.6",
     "graphql-tools": "7.0.5",
     "immutable": "4.0.0",
     "jest-junit-reporter": "1.1.0",
