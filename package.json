@@ -30,7 +30,9 @@
     "init:modules": "winrar.exe x -inul -o+ node_modules_backup *.* .",
     "docker": "npm run docker:build && npm run docker:save",
     "docker:build": "npm run clean && npm run build && docker-machine env dev > temp.bat && git log -n1 --format=\"SET DOCKER_COMMIT_ID=%H\" -n 1 >> temp.bat && temp.bat && docker build -t bluetorch/bluetorch-client --build-arg commitId=%DOCKER_COMMIT_ID% ./ && del temp.bat",
-    "docker:save": "docker-machine env dev > temp.bat && temp.bat && del temp.bat && docker save bluetorch/bluetorch-client -o bluetorch-client.tar.gz"
+    "docker:save": "docker-machine env dev > temp.bat && temp.bat && del temp.bat && docker save bluetorch/bluetorch-client -o bluetorch-client.tar.gz",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "husky": {
     "hooks": {
@@ -99,7 +101,7 @@
     "jest-junit-reporter": "1.1.0",
     "jquery": "3.6.0",
     "jquery-mask-plugin": "1.14.16",
-    "jquery-ui": "1.12.1",
+    "jquery-ui": "^1.13.0",
     "js-clipper": "1.0.1",
     "jsonp": "0.2.1",
     "jsonwebtoken": "8.5.1",
@@ -139,6 +141,10 @@
     "uuid": "8.3.2"
   },
   "devDependencies": {
+    "@storybook/addon-actions": "^6.4.9",
+    "@storybook/addon-essentials": "^6.4.9",
+    "@storybook/addon-links": "^6.4.9",
+    "@storybook/react": "^6.4.9",
     "@testing-library/jest-dom": "5.14.1",
     "@testing-library/react": "11.2.7",
     "@types/angular": "1.8.2",
@@ -210,6 +216,7 @@
     "rimraf": "3.0.2",
     "script-loader": "0.7.2",
     "source-map-loader": "1.1.3",
+    "storybook-addon-material-ui5": "^1.0.0",
     "style-loader": "2.0.0",
     "superstatic": "7.1.0",
     "ts-jest": "26.5.6",
