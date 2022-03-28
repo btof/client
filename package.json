@@ -216,7 +216,7 @@
     "typescript": "4.2.4",
     "webpack": "4.40.2",
     "webpack-cli": "3.3.8",
-    "webpack-dev-server": "3.11.0"
+    "webpack-dev-server": "3.11.3"
   },
   "repository": {
     "type": "git",
