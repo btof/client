@@ -145,7 +145,7 @@
     "@types/enzyme": "3.10.12",
     "@types/fetch-jsonp": "1.0.0",
     "@types/jest": "26.0.24",
-    "@types/jquery": "3.5.6",
+    "@types/jquery": "3.5.14",
     "@types/jquery-mask-plugin": "1.14.4",
     "@types/js-clipper": "0.0.29",
     "@types/jsonp": "0.2.1",
