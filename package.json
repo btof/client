@@ -184,7 +184,7 @@
     "jasmine-core": "3.99.1",
     "jest": "26.6.3",
     "jest-date-mock": "1.0.8",
-    "jest-spec-reporter": "1.0.17",
+    "jest-spec-reporter": "1.0.19",
     "jest-test-typescript-parser": "23.6.0",
     "karma": "5.2.3",
     "karma-chrome-launcher": "3.1.1",
