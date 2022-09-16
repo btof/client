@@ -75,7 +75,7 @@
     "apollo-link-http": "1.5.17",
     "apollo-link-timeout": "^4.0.0",
     "apollo-link-ws": "1.0.20",
-    "bootstrap": "4.1.2",
+    "bootstrap": "4.3.1",
     "cesium": "1.21.0",
     "concavehull": "0.1.6",
     "d3": "6.7.0",
