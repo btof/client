@@ -85,7 +85,7 @@
     "fetch-jsonp": "^1.2.3",
     "font-awesome": "4.7.0",
     "glob": "^8.0.3",
-    "graphql": "^15.8.0",
+    "graphql": "^16.0.0",
     "graphql-tag": "^2.12.6",
     "graphql-tools": "^8.3.6",
     "graphql-ws": "^5.11.2",
