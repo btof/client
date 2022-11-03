@@ -157,7 +157,7 @@
     "@types/sockjs-client": "1.5.1",
     "@types/tooltipster": "0.0.31",
     "angular-mocks": "1.8.3",
-    "babel-loader": "8.2.5",
+    "babel-loader": "8.3.0",
     "babel-plugin-transform-es2015-modules-commonjs": "6.26.2",
     "copy-webpack-plugin": "^11.0.0",
     "cross-env": "7.0.3",
