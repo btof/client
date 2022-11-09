@@ -168,7 +168,7 @@
     "html-webpack-plugin": "^5.5.0",
     "husky": "8.0.2",
     "imports-loader": "^4.0.1",
-    "jest": "29.3.0",
+    "jest": "29.3.1",
     "jest-date-mock": "1.0.8",
     "jest-spec-reporter": "1.0.19",
     "jest-test-typescript-parser": "23.6.0",
