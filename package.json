@@ -82,7 +82,7 @@
     "d3": "^6.7.0",
     "date-fns": "^2.29.3",
     "esbuild-loader": "^2.20.0",
-    "eventemitter3": "^4.0.7",
+    "eventemitter3": "^5.0.0",
     "fetch-jsonp": "^1.2.3",
     "font-awesome": "4.7.0",
     "glob": "^8.0.3",
