@@ -76,7 +76,7 @@
     "apollo-link-ws": "^1.0.20",
     "bootstrap": "3.4.1",
     "buffer": "6.0.3",
-    "cesium": "1.21.0",
+    "cesium": "1.100",
     "concavehull": "0.1.6",
     "css-loader": "^6.7.1",
     "d3": "^6.7.0",
