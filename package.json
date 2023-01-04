@@ -191,7 +191,7 @@
     "rimraf": "3.0.2",
     "source-map-loader": "4.0.1",
     "superstatic": "9.0.1",
-    "ts-loader": "9.4.1",
+    "ts-loader": "9.4.2",
     "tslint": "5.20.1",
     "tslint-config-airbnb": "5.11.2",
     "tslint-config-prettier": "1.18.0",
