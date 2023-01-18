@@ -90,6 +90,7 @@
     "graphql-tag": "^2.12.6",
     "graphql-tools": "^8.3.6",
     "graphql-ws": "^5.11.2",
+    "http2": "^3.3.7",
     "immutable": "^4.1.0",
     "jest-junit-reporter": "^1.1.0",
     "jquery": "3.6.3",
@@ -126,11 +127,14 @@
     "reselect": "^4.1.6",
     "rxjs": "^7.5.7",
     "scheduler": "^0.23.0",
+    "spdy": "^4.0.2",
     "style-loader": "^3.3.1",
     "stylis-plugin-rtl": "^2.1.1",
     "tooltipster": "^4.2.8",
+    "ts-import-plugin": "^2.0.0",
     "use-context-selector": "^1.4.1",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "webpack-bundle-analyzer": "^4.7.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "5.16.5",
