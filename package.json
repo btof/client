@@ -114,7 +114,7 @@
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-error-boundary": "^3.1.4",
-    "react-highlight-words": "^0.18.0",
+    "react-highlight-words": "^0.20.0",
     "react-infinite-scroll-hook": "^4.0.3",
     "react-input-mask": "^2.0.4",
     "react-number-format": "^5.0.0-beta.5",
