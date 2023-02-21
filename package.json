@@ -35,14 +35,13 @@
     "jest": "./node_modules/jest-juint-reporter"
   },
   "dependencies": {
-    "@apollo/client": "^3.6.9",
     "@babel/core": "^7.16.7",
     "@emotion/cache": "^11.10.3",
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
     "@mui/icons-material": "^5.10.6",
     "@mui/lab": "^5.0.0-alpha.100",
-    "@mui/material": "^5.10.6",
+    "@mui/material": "^5.11.7",
     "@mui/styles": "^5.2.3",
     "@mui/x-date-pickers": "^5.0.2",
     "@popperjs/core": "^2.11.6",
@@ -53,6 +52,7 @@
     "@types/react-test-renderer": "17.0.2",
     "@types/redux-immutable": "^4.0.3",
     "@urql/core": "^3.1.1",
+    "@urql/devtools": "^2.0.3",
     "@urql/exchange-auth": "^1.0.0",
     "@urql/exchange-retry": "^1.0.0",
     "@wry/equality": "^0.5.3",
@@ -75,8 +75,6 @@
     "angularjs-circular-slider": "1.0.2",
     "angularjs-dropdown-multiselect": "2.0.0-beta.10",
     "angularjs-slider": "^7.0.1",
-    "apollo-link-timeout": "^4.0.0",
-    "apollo-link-ws": "^1.0.20",
     "bootstrap": "3.4.1",
     "buffer": "6.0.3",
     "cesium": "1.21.0",
@@ -138,7 +136,8 @@
     "urql": "^3.0.3",
     "use-context-selector": "^1.4.1",
     "uuid": "^9.0.0",
-    "webpack-bundle-analyzer": "^4.7.0"
+    "webpack-bundle-analyzer": "^4.7.0",
+    "wonka": "^6.1.2",
   },
   "devDependencies": {
     "@testing-library/jest-dom": "5.16.5",
